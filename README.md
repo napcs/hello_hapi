@@ -22,7 +22,9 @@ Replace `homer` with your name to echo the response. Use `Homer%20Simpson` to te
 
 Run tests with `npm test`
 
-This will run tests, coverage, and a linter using the default linting settings.
+This will run tests and a linter using the default linting settings.
+
+Run tests and code coverage with `npm run coverage`.
 
 ## License
 
