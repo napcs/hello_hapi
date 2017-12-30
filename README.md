@@ -1,4 +1,4 @@
-# Hello
+# Hello Hapi
 
 An example [Hapi.js](https://hapijs.com/) app with https://github.com/hapijs/lab tests. Solution to Exercise 1 from [Exercises for Programmers](http://pragprog.com/titles/bhwb), copyright 2015 The Pragmatic Programmers.
 
