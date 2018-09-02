@@ -18,7 +18,6 @@ Server.route({
 // don't start server if this file was required.
 
 if (!module.parent) {
-
     Server.start((err) => {
 
         if (err) {
