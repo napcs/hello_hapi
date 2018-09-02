@@ -4,7 +4,7 @@ pipeline {
 
     agent {
         docker {
-            image 'node'
+            image 'node:carbon'
             args '-u root'
         }
     }
