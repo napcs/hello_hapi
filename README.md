@@ -10,7 +10,7 @@ Install dependencies:
 npm install
 ```
 
-Run with 
+Run with
 
 `npm start`
 
