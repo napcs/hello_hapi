@@ -15,7 +15,7 @@ Server.route({
     }
 });
 
-// don't start server if this file was required
+// don't start server if this file was required.
 
 if (!module.parent) {
 
@@ -24,7 +24,7 @@ if (!module.parent) {
         if (err) {
             throw err;
         }
-        console.log(`Server is running at: ${Server.info.uri}`);
+        console.log(`This server is running at: ${Server.info.uri}`);
     });
 }
 
